@@ -1,0 +1,21 @@
+
+
+header{
+    background-color: brown;
+}
+
+body{
+    background-color: antiquewhite;
+}
+.imagemmenor{
+    max-width: 184px;
+    max-height: 184px;
+}
+.imagem{    
+   max-width: 500px;
+   max-height: 500px;
+}
+
+.fonte{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
